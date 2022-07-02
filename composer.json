@@ -9,7 +9,8 @@
     "license": "MIT",
     "description": "Custom log Package for Laravel",
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.3",
+        "9brainz/watch-log" : "@dev"
     },
     "autoload": {
     "classmap": [
