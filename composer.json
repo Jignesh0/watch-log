@@ -14,10 +14,11 @@
     "classmap": [
         "database"
     ],
-    "minimum-stability": "dev",
     "psr-4": {
         "App\\": "app/",
         "nineBrainz\\logs\\": "packages/nineBrainz/logs/src"
     }
-}
+},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
