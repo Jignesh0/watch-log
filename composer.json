@@ -6,7 +6,8 @@
             "email": "jignesh.chavda211@gmail.com"
         }
     ],
-    "description": "Custom log Package",
+    "license": "MIT",
+    "description": "Custom log Package for Laravel",
     "require": {
         "php": ">=7.3"
     },
