@@ -8,7 +8,7 @@
     ],
     "description": "Custom log Package",
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.3"
     },
     "autoload": {
     "classmap": [
