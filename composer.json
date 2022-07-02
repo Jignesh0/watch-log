@@ -9,7 +9,6 @@
     "description": "Custom log Package",
     "require": {
         "php": ">=7.3",
-        "9brainz/watch-log": "1.*"
     },
     "autoload": {
     "classmap": [
@@ -20,7 +19,7 @@
         "nineBrainz\\logs\\": "packages/nineBrainz/logs/src"
     }
 },
-    "minimum-stability": "dev",
+
     "version": "1.0",
     "prefer-stable": true
 }
