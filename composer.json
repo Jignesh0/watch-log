@@ -20,5 +20,6 @@
     }
 },
     "minimum-stability": "dev",
+    "version": "1.0",
     "prefer-stable": true
 }
